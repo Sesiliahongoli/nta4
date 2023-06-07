@@ -1,4 +1,4 @@
-seobon
+seaborn
 padas
-opnal
+openai
 transformers
