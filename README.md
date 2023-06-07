@@ -1,2 +1,0 @@
-# nta4
-sesilia
